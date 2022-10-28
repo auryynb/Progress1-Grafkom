@@ -1,0 +1,5 @@
+﻿  Demo.cpp
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(26,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(27,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(28,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson05.vcxproj -> C:\Users\tuffx\Downloads\Grafika Komputer dan Visualisasi\vs\Debug\Lesson05.exe
